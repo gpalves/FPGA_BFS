@@ -1,0 +1,1 @@
+This folder includes the AI Engine-specific code written for this project. As reference, the PL kernel for a memory controller has also been included here. If it were to be compiled, the v++ commands should be updated accordingly.
